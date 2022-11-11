@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.fddc0eaf.css",
-    "main.js": "/static/js/main.0ad6391f.js",
-    "static/js/787.97b87eac.chunk.js": "/static/js/787.97b87eac.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.fddc0eaf.css.map": "/static/css/main.fddc0eaf.css.map",
-    "main.0ad6391f.js.map": "/static/js/main.0ad6391f.js.map",
-    "787.97b87eac.chunk.js.map": "/static/js/787.97b87eac.chunk.js.map"
+    "main.css": "/2022_steam_rne/static/css/main.fddc0eaf.css",
+    "main.js": "/2022_steam_rne/static/js/main.9316ec64.js",
+    "static/js/787.97b87eac.chunk.js": "/2022_steam_rne/static/js/787.97b87eac.chunk.js",
+    "static/media/logo.svg": "/2022_steam_rne/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/2022_steam_rne/index.html",
+    "main.fddc0eaf.css.map": "/2022_steam_rne/static/css/main.fddc0eaf.css.map",
+    "main.9316ec64.js.map": "/2022_steam_rne/static/js/main.9316ec64.js.map",
+    "787.97b87eac.chunk.js.map": "/2022_steam_rne/static/js/787.97b87eac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fddc0eaf.css",
-    "static/js/main.0ad6391f.js"
+    "static/js/main.9316ec64.js"
   ]
 }
